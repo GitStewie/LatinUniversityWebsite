@@ -27,7 +27,11 @@ body {
 }
 
 .footer {
+<<<<<<< HEAD
   color: pink;
+=======
+  color: black;
+>>>>>>> 974da09e07a3ffcc53cd47697732b575137fada3
 }
 
 #addressFooter {
